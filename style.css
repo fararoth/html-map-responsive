@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#img-map-container{
+    display: flex;
+    justify-content: center;
+}
+
+.sections-info{
+    position: absolute;
+}
+
+.card-info{
+    display: none;
+}
